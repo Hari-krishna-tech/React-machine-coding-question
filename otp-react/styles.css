@@ -1,0 +1,17 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.otp-input {
+  height: 45px;
+  width: 50px;
+  font-size: 30px;
+  text-align: center;
+  margin: 5px;
+}
+
+.grey {
+  color: rgba(218, 223, 225);
+}
+
